@@ -1,0 +1,5 @@
+print("Loading...")
+textutils.slowPrint("##########")
+print("Done!")
+sleep(1)
+shell.run("menu")
